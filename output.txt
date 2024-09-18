@@ -1,0 +1,7 @@
+abgleich_jeansfritz_accepted_Mai24
+
+anderes Zeitformat (TT.MM.JJJJ hh:mm)
+
+bei Declined muss Status "Storno" sein falls leer
+
+bei Ammended muss Status "Teilstorno" sein falls leer
